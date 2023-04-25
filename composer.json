@@ -1,0 +1,12 @@
+{
+    "name": "runroom/infrastructure",
+    "description": "Basic Infrastructure for our projects",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Runroom",
+            "email": "software@runroom.com"
+        }
+    ],
+    "require": {}
+}
